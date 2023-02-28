@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio_hoangquan/static/css/main.04200ab3.css",
-    "main.js": "/portfolio_hoangquan/static/js/main.0e92c1f5.js",
+    "main.css": "/portfolio_hoangquan/static/css/main.c280c190.css",
+    "main.js": "/portfolio_hoangquan/static/js/main.55275ea6.js",
     "static/media/ps5.png": "/portfolio_hoangquan/static/media/ps5.001000e8555851a80361.png",
     "static/media/pizza.png": "/portfolio_hoangquan/static/media/pizza.1df3a41a47f948556249.png",
     "static/media/hoangquan.jpeg": "/portfolio_hoangquan/static/media/hoangquan.ff0f02db1702aebc5232.jpeg",
     "static/media/yumy.png": "/portfolio_hoangquan/static/media/yumy.400c59233c3ce738a189.png",
+    "static/media/CV.xlsx": "/portfolio_hoangquan/static/media/CV.56ca7682b44135d8cd46.xlsx",
     "static/media/Pokemon.png": "/portfolio_hoangquan/static/media/Pokemon.c2d892fa990d7fe6b55c.png",
-    "static/media/CV.xlsx": "/portfolio_hoangquan/static/media/CV.1420413fb0a03c304eaf.xlsx",
     "static/media/money.png": "/portfolio_hoangquan/static/media/money.6d26e66b0505e0bb50e3.png",
     "static/media/scss.png": "/portfolio_hoangquan/static/media/scss.c5213e47d36d08131e60.png",
     "static/media/react.png": "/portfolio_hoangquan/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -18,11 +18,11 @@
     "static/media/Bootstrap.jpeg": "/portfolio_hoangquan/static/media/Bootstrap.2bf5c6847d71988b0af7.jpeg",
     "static/media/javascript.png": "/portfolio_hoangquan/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio_hoangquan/index.html",
-    "main.04200ab3.css.map": "/portfolio_hoangquan/static/css/main.04200ab3.css.map",
-    "main.0e92c1f5.js.map": "/portfolio_hoangquan/static/js/main.0e92c1f5.js.map"
+    "main.c280c190.css.map": "/portfolio_hoangquan/static/css/main.c280c190.css.map",
+    "main.55275ea6.js.map": "/portfolio_hoangquan/static/js/main.55275ea6.js.map"
   },
   "entrypoints": [
-    "static/css/main.04200ab3.css",
-    "static/js/main.0e92c1f5.js"
+    "static/css/main.c280c190.css",
+    "static/js/main.55275ea6.js"
   ]
 }
